@@ -1,0 +1,13 @@
+name: Text_predictor
+title: Text_predictor
+username:
+account: averas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3525551
+bundleId: 4176605
+url: https://averas.shinyapps.io/Text_predictor/
+when: 1612371949.80232
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: bitrigram2.csv
